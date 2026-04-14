@@ -1,0 +1,5 @@
+                                     SLICER
+
+
+Filtering the data using the slicer revealed that sales vary by region, which was not clearly visible in the full view. When all data was combined, it looked like one product perfromed besy overall, but filtering showed which region contributed more to these sales.
+ 
